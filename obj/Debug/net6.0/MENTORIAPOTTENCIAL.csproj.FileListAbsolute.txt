@@ -1,0 +1,15 @@
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.csproj.AssemblyReference.cache
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.AssemblyInfoInputs.cache
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.AssemblyInfo.cs
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.csproj.CoreCompileInputs.cache
+D:\Projetos\c#\MENTORIAPOTTENCIAL\bin\Debug\net6.0\MENTORIAPOTTENCIAL.exe
+D:\Projetos\c#\MENTORIAPOTTENCIAL\bin\Debug\net6.0\MENTORIAPOTTENCIAL.deps.json
+D:\Projetos\c#\MENTORIAPOTTENCIAL\bin\Debug\net6.0\MENTORIAPOTTENCIAL.runtimeconfig.json
+D:\Projetos\c#\MENTORIAPOTTENCIAL\bin\Debug\net6.0\MENTORIAPOTTENCIAL.dll
+D:\Projetos\c#\MENTORIAPOTTENCIAL\bin\Debug\net6.0\MENTORIAPOTTENCIAL.pdb
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.dll
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\refint\MENTORIAPOTTENCIAL.dll
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.pdb
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\MENTORIAPOTTENCIAL.genruntimeconfig.cache
+D:\Projetos\c#\MENTORIAPOTTENCIAL\obj\Debug\net6.0\ref\MENTORIAPOTTENCIAL.dll
